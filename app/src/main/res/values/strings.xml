@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="labels_hours">Hours</string>
+    <string name="labels_minutes">Minutes</string>
+    <string name="labels_seconds">Seconds</string>
+    <string name="button_validate">Validate</string>
+    <string name="toast_duration">"Duration : "</string>
+    <string name="number_format_exception">Invalid value (must be between 0 and 59)</string>
+    <string name="text_view_duration">Seconds : </string>
+    <string name="button_redo">SET DURATION</string>
+    <string name="button_start">START</string>
+    <string name="button_refresh">REFRESH</string>
+    <string name="button_stop">STOP</string>
+    <string name="button_history">HISTORY</string>
+    <string name="countend_msg">End of activity</string>
+</resources>
